@@ -24,7 +24,7 @@ let iterator = new KeepFullStack();
 })()
 ```
 
-## Contributing
+## Contribución
 Pull request son bienvenidos. Para cambios importantes, por favor abra primero un issue para analizar qué le gustaría cambiar.
 
 ## Licencia
