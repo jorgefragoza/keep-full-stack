@@ -1,0 +1,19 @@
+{
+  "name": "keep-full-stack",
+  "version": "1.0.0",
+  "description": "Utileria para ejecutar de manera sincrona hilos de un mismo proceso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgefragoza/keep-full-stack.git"
+  },
+  "author": "jorge.fragoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgefragoza/keep-full-stack/issues"
+  },
+  "homepage": "https://github.com/jorgefragoza/keep-full-stack#readme"
+}
