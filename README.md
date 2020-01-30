@@ -8,7 +8,7 @@ Utilize NPM [Node Package Manager] https://www.npmjs.com/get-npm para instalar k
 npm install git+https://github.com/jorgefragoza/keep-full-stack.git
 ```
 
-## Implemenación
+## Implementación
 
 ```NodeJS
 const KeepFullStack = require('keep-full-stack');
